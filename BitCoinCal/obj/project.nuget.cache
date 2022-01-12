@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UR7uRFQabGZGMO5BxKHYg0nggGCE2xjT8Djqia1qXLPlTo0+l/M8WZhjpkvPg+q5o/rtvybHdmiEAdPrkYVBtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\BitCoinCal\\BitCoinCal\\BitCoinCal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
